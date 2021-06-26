@@ -14,6 +14,7 @@ printf("Enter the radius");
 scanf("%f",&r);
 A=3.14*r*r;							//functional block to calculate the area
 P=2*3.14*r;
-printf("the area is %f and he perimeter is%f",A,P);
+printf("the area is %f and he perimete
+       
 return 0;
 }
